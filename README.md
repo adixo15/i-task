@@ -23,5 +23,44 @@ A **simple and responsive Todo App** built with **React** and **TailwindCSS**. K
 
 
 ## 🚀 Installation
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/yourusername/itask.git
+cd itask
+```
+2.Install dependencies:
+```bash
+npm install
+```
+3.Run the server
+```bash
+npm run dev
+```
+Open http://localhost:5173 in your browser to see the app. 🌐
+
+
+
+
+## 📝How To Use
+
+1.Type your task in the input field 🖊️
+
+2.Click Add ➕ to save the task
+
+3,Use Edit ✏️ to modify a task
+
+4.Use Delete 🗑️ to remove a task
+
+5.Click the checkbox ✅ to mark a task as completed
+
+
+--
+
+
+## 🤝 Contributing
+
+
+Contributions are welcome! Feel free to open an issue or submit a pull request. 💡
 
 
